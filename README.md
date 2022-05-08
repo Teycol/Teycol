@@ -1,8 +1,9 @@
 ### Olá eu sou o Teycol 👋
 
 - 🎓 Estudando, Análise e Desenvolvimento de Sistemas
+- 💡 Em Busca de Conhecimento
 - 📅 19y
-- 🌵 Nordestino com orgulho
+- 🌵 Nordestino Com Orgulho
 
 <div align="center">
   <a href="https://github.com/Teycol">
