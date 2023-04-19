@@ -2,7 +2,7 @@
 <h1 align="center">Olá Tudo Bem? Sou o <a href="https://www.linkedin.com/in/gabrielxyz/"><i>Gabriel Luiz</i></a> 🧙‍♂️</h1>
 
 <p align="center"> Sou apenas um aprendiz, começando a cursar a faculdade de Análise e Desenvolvimento.</p>
-<p align="center">Um Admirador de Tecnologia e Aviões</p>
+<p align="center">Um Admirador de Tecnologia,Aviões e Drift</p>
 
 </div>
 
